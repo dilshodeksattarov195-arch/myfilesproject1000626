@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfalculate",
+        "uuid": 1196912,
+        "checksum": "sq2dd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
